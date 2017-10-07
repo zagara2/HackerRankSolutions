@@ -11,3 +11,6 @@ These are the solutions to several HackerRank challenges, of varying difficulty,
 Each folder contains a text file linking to the prompt for that specific challenge, as well as a .py file containing the code used to solve the challenge. 
 
 I had to migrate all of the code from HackerRank's site to this repo, because unfortunately, HackerRank does not have an option to make my solution code visible to the public.
+
+## Technologies Used
+* Python
