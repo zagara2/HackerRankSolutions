@@ -1,4 +1,4 @@
-# Hacker Rank Solutions
+# HackerRank Solutions
 
 ## What is this?
 
